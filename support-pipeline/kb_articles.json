@@ -1,0 +1,114 @@
+[
+  {
+    "article_id": "KB01",
+    "title": "Withdrawal review timelines",
+    "category": "payments",
+    "body": "Withdrawals may be delayed if additional verification or security review is required. Customers should check whether all requested documents were submitted and whether the chosen payment method is eligible for withdrawal.",
+    "tags": [
+      "withdrawal",
+      "review",
+      "documents"
+    ]
+  },
+  {
+    "article_id": "KB02",
+    "title": "Additional verification checks",
+    "category": "compliance",
+    "body": "Previously verified customers may occasionally be asked for additional documents due to regulatory, risk, or account-security checks. Review requests do not always indicate a permanent account issue.",
+    "tags": [
+      "kyc",
+      "verification",
+      "documents"
+    ]
+  },
+  {
+    "article_id": "KB03",
+    "title": "Deposit pending or missing after bank debit",
+    "category": "payments",
+    "body": "If a customer was charged but the deposit is not visible, first confirm transaction reference details and whether the payment settled successfully. Some payment methods can take time to reconcile. Duplicate charges should be escalated with payment evidence.",
+    "tags": [
+      "deposit",
+      "bank",
+      "duplicate",
+      "reconciliation"
+    ]
+  },
+  {
+    "article_id": "KB04",
+    "title": "Account access and session issues",
+    "category": "technical",
+    "body": "Invalid session or login failures can result from expired sessions, password-reset timing, cached credentials, or device-specific authentication issues. Ask the customer to try a clean login flow and capture platform details if the issue persists.",
+    "tags": [
+      "login",
+      "session",
+      "password"
+    ]
+  },
+  {
+    "article_id": "KB05",
+    "title": "Statement and report exports",
+    "category": "account",
+    "body": "Customers can download account statements from the reports or account history section. If the desired date range is unavailable in-app, support may provide guidance on export limitations.",
+    "tags": [
+      "statement",
+      "export",
+      "report"
+    ]
+  },
+  {
+    "article_id": "KB06",
+    "title": "Proof of address review guidance",
+    "category": "compliance",
+    "body": "Proof of address documents may be rejected if they are outdated, incomplete, cropped, mismatched, or unsupported. Support should avoid promising approval and instead explain the acceptable-document criteria.",
+    "tags": [
+      "proof_of_address",
+      "rejected",
+      "verification"
+    ]
+  },
+  {
+    "article_id": "KB07",
+    "title": "Account restriction and review communication",
+    "category": "compliance",
+    "body": "When an account is under restriction or review, agents should acknowledge the concern, avoid disclosing internal triggers, avoid speculation, and explain that the specialist team will contact the customer if more information is needed.",
+    "tags": [
+      "restricted",
+      "suspended",
+      "review"
+    ]
+  },
+  {
+    "article_id": "KB08",
+    "title": "Trading bot and strategy-performance caveats",
+    "category": "product",
+    "body": "Backtest and live execution conditions may differ due to market conditions, latency, slippage, configuration changes, or data assumptions. Support should not guarantee strategy outcomes and may route suspected platform defects to product or engineering teams.",
+    "tags": [
+      "bot",
+      "backtest",
+      "live",
+      "execution"
+    ]
+  },
+  {
+    "article_id": "KB09",
+    "title": "Data deletion and account closure requests",
+    "category": "privacy",
+    "body": "Account closure and data deletion requests may involve identity verification and legal retention requirements. Support should acknowledge the request, avoid making legal guarantees, and route privacy-specific questions to the relevant team when needed.",
+    "tags": [
+      "privacy",
+      "deletion",
+      "closure"
+    ]
+  },
+  {
+    "article_id": "KB10",
+    "title": "API usage and rate limits",
+    "category": "developer",
+    "body": "Rate limits may vary by endpoint, environment, authentication state, or abuse protections. Support should collect request context and route persistent discrepancies for technical review.",
+    "tags": [
+      "api",
+      "rate_limit",
+      "developer"
+    ]
+  }
+]

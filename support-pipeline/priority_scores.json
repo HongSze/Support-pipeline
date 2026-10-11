@@ -1,0 +1,62 @@
+[
+  {
+    "ticket_id": "T07",
+    "priority_score": 105,
+    "expedited": true
+  },
+  {
+    "ticket_id": "T01",
+    "priority_score": 55,
+    "expedited": true
+  },
+  {
+    "ticket_id": "T06",
+    "priority_score": 55,
+    "expedited": true
+  },
+  {
+    "ticket_id": "T09",
+    "priority_score": 55,
+    "expedited": true
+  },
+  {
+    "ticket_id": "T11",
+    "priority_score": 55,
+    "expedited": true
+  },
+  {
+    "ticket_id": "T02",
+    "priority_score": 35,
+    "expedited": false
+  },
+  {
+    "ticket_id": "T03",
+    "priority_score": 20,
+    "expedited": false
+  },
+  {
+    "ticket_id": "T05",
+    "priority_score": 20,
+    "expedited": false
+  },
+  {
+    "ticket_id": "T10",
+    "priority_score": 20,
+    "expedited": false
+  },
+  {
+    "ticket_id": "T04",
+    "priority_score": 10,
+    "expedited": false
+  },
+  {
+    "ticket_id": "T12",
+    "priority_score": 10,
+    "expedited": false
+  },
+  {
+    "ticket_id": "T08",
+    "priority_score": 3,
+    "expedited": false
+  }
+]

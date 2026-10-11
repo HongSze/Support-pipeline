@@ -1,0 +1,47 @@
+[
+  {
+    "ticket_id": "T07",
+    "channel": "email",
+    "draft_reply": "Hi there,\n\nWe understand how concerning it is when your account is restricted, and we're sorry for the stress this is causing. Your account is with our specialist team for review. We're not able to share the internal details of a review, but the team will contact you directly if any further information is needed from you. We've made sure your message has reached the right team.\n\nBest regards,\nCustomer Support",
+    "citations": [
+      "KB07"
+    ],
+    "review_gate_note": "HUMAN REVIEW REQUIRED before sending (needs_legal_or_compliance_review). Routed to: Risk, Compliance, Payments. Check facts against the cited KB and the account record."
+  },
+  {
+    "ticket_id": "T01",
+    "channel": "email",
+    "draft_reply": "Hi there,\n\nThanks for getting in touch about your withdrawal, and sorry for the wait. Withdrawals can take longer than the usual timeframe when an additional verification or security review is needed. We'll check that the documents you submitted have been received and that your chosen payment method is eligible for withdrawals. If anything else is needed from you, our payments team will contact you directly.\n\nBest regards,\nCustomer Support",
+    "citations": [
+      "KB01"
+    ],
+    "review_gate_note": "HUMAN REVIEW REQUIRED before sending (needs_specialist_review). Routed to: Payments. Check facts against the cited KB and the account record."
+  },
+  {
+    "ticket_id": "T06",
+    "channel": "chat",
+    "draft_reply": "Hi! Sorry to hear that your bank was debited but the deposit isn't showing yet. Some payment methods take time to reconcile. To help us trace it, please reply with the transaction reference, the amount, and the date and time of the payment, plus a screenshot or statement line showing the debit (please hide all but the last four digits of any card or account number). If you were charged more than once, our payments team will review it with that evidence.",
+    "citations": [
+      "KB03"
+    ],
+    "review_gate_note": "HUMAN REVIEW REQUIRED before sending (needs_specialist_review). Routed to: Payments. Check facts against the cited KB and the account record. Customer wrote in 'hi-en': confirm reply language and tone."
+  },
+  {
+    "ticket_id": "T09",
+    "channel": "email",
+    "draft_reply": "Hi there,\n\nSorry to hear that your bank was debited but the deposit isn't showing yet. Some payment methods take time to reconcile. To help us trace it, please reply with the transaction reference, the amount, and the date and time of the payment, plus a screenshot or statement line showing the debit (please hide all but the last four digits of any card or account number). If you were charged more than once, our payments team will review it with that evidence.\n\nBest regards,\nCustomer Support",
+    "citations": [
+      "KB03"
+    ],
+    "review_gate_note": "HUMAN REVIEW REQUIRED before sending (needs_specialist_review). Routed to: Payments. Check facts against the cited KB and the account record."
+  },
+  {
+    "ticket_id": "T11",
+    "channel": "email",
+    "draft_reply": "Hi there,\n\nWe understand how concerning it is when your account is restricted, and we're sorry for the stress this is causing. Your account is with our specialist team for review. We're not able to share the internal details of a review, but the team will contact you directly if any further information is needed from you. We've made sure your message has reached the right team.\n\nBest regards,\nCustomer Support",
+    "citations": [
+      "KB07"
+    ],
+    "review_gate_note": "HUMAN REVIEW REQUIRED before sending (needs_legal_or_compliance_review). Routed to: Risk, Compliance, Payments. Check facts against the cited KB and the account record."
+  }
+]

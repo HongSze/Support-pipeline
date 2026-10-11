@@ -1,0 +1,110 @@
+[
+  {
+    "ticket_id": "T01",
+    "channel": "email",
+    "customer_tier": "standard",
+    "language_hint": "en",
+    "subject": "Withdrawal still pending after 5 days",
+    "message": "Hi team, my withdrawal has been pending for 5 days even though the app said 24 hours. I already uploaded the requested documents last week. Can someone tell me what is happening?",
+    "created_at": "2025-04-14T08:10:00Z"
+  },
+  {
+    "ticket_id": "T02",
+    "channel": "chat",
+    "customer_tier": "vip",
+    "language_hint": "en",
+    "subject": "Can't log in after password reset",
+    "message": "Reset my password twice and now I keep getting an invalid session error on web and mobile. Need this fixed urgently.",
+    "created_at": "2025-04-14T08:22:00Z"
+  },
+  {
+    "ticket_id": "T03",
+    "channel": "email",
+    "customer_tier": "standard",
+    "language_hint": "ms",
+    "subject": "Dokumen tambahan diminta",
+    "message": "Saya sudah lulus pengesahan sebelum ini tetapi sekarang diminta dokumen tambahan lagi. Kenapa akaun saya disemak semula?",
+    "created_at": "2025-04-14T08:45:00Z"
+  },
+  {
+    "ticket_id": "T04",
+    "channel": "chat",
+    "customer_tier": "standard",
+    "language_hint": "en",
+    "subject": "Bot performance looks different from backtest",
+    "message": "My automated strategy is behaving very differently live compared with the backtest results from last week. Did execution rules change after the update?",
+    "created_at": "2025-04-14T09:05:00Z"
+  },
+  {
+    "ticket_id": "T05",
+    "channel": "email",
+    "customer_tier": "standard",
+    "language_hint": "en",
+    "subject": "Need account closure and data deletion",
+    "message": "Please close my account and let me know the process to request deletion of my personal data. Also confirm whether anything must be retained for legal reasons.",
+    "created_at": "2025-04-14T09:15:00Z"
+  },
+  {
+    "ticket_id": "T06",
+    "channel": "chat",
+    "customer_tier": "standard",
+    "language_hint": "hi-en",
+    "subject": "Deposit failed but money debited",
+    "message": "Mera bank account se paise cut gaye but deposit platform pe reflect nahi hua. Kya mujhe wait karna chahiye ya complaint raise karu?",
+    "created_at": "2025-04-14T09:28:00Z"
+  },
+  {
+    "ticket_id": "T07",
+    "channel": "email",
+    "customer_tier": "vip",
+    "language_hint": "en",
+    "subject": "Formal complaint if funds remain blocked",
+    "message": "If my account remains restricted and my funds stay blocked today, I will file a formal complaint with the regulator. I want a written explanation immediately.",
+    "created_at": "2025-04-14T09:40:00Z"
+  },
+  {
+    "ticket_id": "T08",
+    "channel": "chat",
+    "customer_tier": "standard",
+    "language_hint": "en",
+    "subject": "Where can I find statement export?",
+    "message": "Quick question: where do I download my account statement for the last 3 months?",
+    "created_at": "2025-04-14T10:00:00Z"
+  },
+  {
+    "ticket_id": "T09",
+    "channel": "email",
+    "customer_tier": "standard",
+    "language_hint": "en",
+    "subject": "Charged twice for one deposit",
+    "message": "I attempted one deposit, got an error, retried once, and now I see two bank debits. Only one deposit reached the account. Please investigate.",
+    "created_at": "2025-04-14T10:18:00Z"
+  },
+  {
+    "ticket_id": "T10",
+    "channel": "chat",
+    "customer_tier": "standard",
+    "language_hint": "en",
+    "subject": "Verification question",
+    "message": "Why was my proof of address rejected? The document is recent and clearly shows my name.",
+    "created_at": "2025-04-14T10:35:00Z"
+  },
+  {
+    "ticket_id": "T11",
+    "channel": "email",
+    "customer_tier": "standard",
+    "language_hint": "en",
+    "subject": "Please tell me exact reason for suspension",
+    "message": "My account was suspended without a clear reason. I need to know exactly what triggered this and whether my balance is safe.",
+    "created_at": "2025-04-14T10:55:00Z"
+  },
+  {
+    "ticket_id": "T12",
+    "channel": "chat",
+    "customer_tier": "standard",
+    "language_hint": "en",
+    "subject": "API rate limit confusion",
+    "message": "I am getting rate limited much earlier than expected from the docs. Is there a per-token or per-IP limit?",
+    "created_at": "2025-04-14T11:10:00Z"
+  }
+]

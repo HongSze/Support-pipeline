@@ -1,0 +1,110 @@
+[
+  {
+    "ticket_id": "T01",
+    "original_subject": "Withdrawal still pending after 5 days",
+    "original_message": "Hi team, my withdrawal has been pending for 5 days even though the app said 24 hours. I already uploaded the requested documents last week. Can someone tell me what is happening?",
+    "subject_for_processing": "Withdrawal still pending after 5 days",
+    "message_for_processing": "Hi team, my withdrawal has been pending for 5 days even though the app said 24 hours. I already uploaded the requested documents last week. Can someone tell me what is happening?",
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T02",
+    "original_subject": "Can't log in after password reset",
+    "original_message": "Reset my password twice and now I keep getting an invalid session error on web and mobile. Need this fixed urgently.",
+    "subject_for_processing": "Can't log in after password reset",
+    "message_for_processing": "Reset my password twice and now I keep getting an invalid session error on web and mobile. Need this fixed urgently.",
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T03",
+    "original_subject": "Dokumen tambahan diminta",
+    "original_message": "Saya sudah lulus pengesahan sebelum ini tetapi sekarang diminta dokumen tambahan lagi. Kenapa akaun saya disemak semula?",
+    "subject_for_processing": "documents additional requested",
+    "message_for_processing": "I already passed verification previously but now requested documents additional again. why account I reviewed again?",
+    "original_language": "ms",
+    "translated": true
+  },
+  {
+    "ticket_id": "T04",
+    "original_subject": "Bot performance looks different from backtest",
+    "original_message": "My automated strategy is behaving very differently live compared with the backtest results from last week. Did execution rules change after the update?",
+    "subject_for_processing": "Bot performance looks different from backtest",
+    "message_for_processing": "My automated strategy is behaving very differently live compared with the backtest results from last week. Did execution rules change after the update?",
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T05",
+    "original_subject": "Need account closure and data deletion",
+    "original_message": "Please close my account and let me know the process to request deletion of my personal data. Also confirm whether anything must be retained for legal reasons.",
+    "subject_for_processing": "Need account closure and data deletion",
+    "message_for_processing": "Please close my account and let me know the process to request deletion of my personal data. Also confirm whether anything must be retained for legal reasons.",
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T06",
+    "original_subject": "Deposit failed but money debited",
+    "original_message": "Mera bank account se paise cut gaye but deposit platform pe reflect nahi hua. Kya mujhe wait karna chahiye ya complaint raise karu?",
+    "subject_for_processing": "Deposit failed but money debited",
+    "message_for_processing": "my bank account from money debited but deposit platform on not reflected. I should wait or raise complaint?",
+    "original_language": "hi-en",
+    "translated": true
+  },
+  {
+    "ticket_id": "T07",
+    "original_subject": "Formal complaint if funds remain blocked",
+    "original_message": "If my account remains restricted and my funds stay blocked today, I will file a formal complaint with the regulator. I want a written explanation immediately.",
+    "subject_for_processing": "Formal complaint if funds remain blocked",
+    "message_for_processing": "If my account remains restricted and my funds stay blocked today, I will file a formal complaint with the regulator. I want a written explanation immediately.",
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T08",
+    "original_subject": "Where can I find statement export?",
+    "original_message": "Quick question: where do I download my account statement for the last 3 months?",
+    "subject_for_processing": "Where can I find statement export?",
+    "message_for_processing": "Quick question: where do I download my account statement for the last 3 months?",
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T09",
+    "original_subject": "Charged twice for one deposit",
+    "original_message": "I attempted one deposit, got an error, retried once, and now I see two bank debits. Only one deposit reached the account. Please investigate.",
+    "subject_for_processing": "Charged twice for one deposit",
+    "message_for_processing": "I attempted one deposit, got an error, retried once, and now I see two bank debits. Only one deposit reached the account. Please investigate.",
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T10",
+    "original_subject": "Verification question",
+    "original_message": "Why was my proof of address rejected? The document is recent and clearly shows my name.",
+    "subject_for_processing": "Verification question",
+    "message_for_processing": "Why was my proof of address rejected? The document is recent and clearly shows my name.",
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T11",
+    "original_subject": "Please tell me exact reason for suspension",
+    "original_message": "My account was suspended without a clear reason. I need to know exactly what triggered this and whether my balance is safe.",
+    "subject_for_processing": "Please tell me exact reason for suspension",
+    "message_for_processing": "My account was suspended without a clear reason. I need to know exactly what triggered this and whether my balance is safe.",
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T12",
+    "original_subject": "API rate limit confusion",
+    "original_message": "I am getting rate limited much earlier than expected from the docs. Is there a per-token or per-IP limit?",
+    "subject_for_processing": "API rate limit confusion",
+    "message_for_processing": "I am getting rate limited much earlier than expected from the docs. Is there a per-token or per-IP limit?",
+    "original_language": "en",
+    "translated": false
+  }
+]

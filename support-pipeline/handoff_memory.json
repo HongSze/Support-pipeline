@@ -1,0 +1,72 @@
+[
+  {
+    "ticket_id": "T07",
+    "customer_problem_summary": "Formal complaint if funds remain blocked: If my account remains restricted and my funds stay blocked today, I will file a formal complaint with the regulator. I want a written explanation immediately.",
+    "open_questions": [
+      "What is the current review status, and does the specialist team need anything?"
+    ],
+    "do_not_say": [
+      "Promises of outcomes, refunds or timelines not stated in the KB",
+      "Internal review triggers, risk logic or priority scores",
+      "Speculation about the cause",
+      "Whether the balance is 'safe' or when the restriction will lift"
+    ],
+    "recommended_next_action": "Specialist team to review the restriction and send an approved written response."
+  },
+  {
+    "ticket_id": "T01",
+    "customer_problem_summary": "Withdrawal still pending after 5 days: Hi team, my withdrawal has been pending for 5 days even though the app said 24 hours. I already uploaded the requested documents last week. Can someone tell me what is happening?",
+    "open_questions": [
+      "Are all requested documents received and accepted?",
+      "Is the payment method eligible for withdrawal?"
+    ],
+    "do_not_say": [
+      "Promises of outcomes, refunds or timelines not stated in the KB",
+      "Internal review triggers, risk logic or priority scores",
+      "Speculation about the cause"
+    ],
+    "recommended_next_action": "Check the withdrawal review status and document receipt, then update the customer."
+  },
+  {
+    "ticket_id": "T06",
+    "customer_problem_summary": "Deposit failed but money debited: my bank account from money debited but deposit platform on not reflected. I should wait or raise complaint?",
+    "open_questions": [
+      "What is the transaction reference and amount?",
+      "Has the payment settled with the provider, and is there a duplicate charge?"
+    ],
+    "do_not_say": [
+      "Promises of outcomes, refunds or timelines not stated in the KB",
+      "Internal review triggers, risk logic or priority scores",
+      "Speculation about the cause"
+    ],
+    "recommended_next_action": "Collect payment evidence and reconcile with the payment provider; escalate duplicates."
+  },
+  {
+    "ticket_id": "T09",
+    "customer_problem_summary": "Charged twice for one deposit: I attempted one deposit, got an error, retried once, and now I see two bank debits. Only one deposit reached the account. Please investigate.",
+    "open_questions": [
+      "What is the transaction reference and amount?",
+      "Has the payment settled with the provider, and is there a duplicate charge?"
+    ],
+    "do_not_say": [
+      "Promises of outcomes, refunds or timelines not stated in the KB",
+      "Internal review triggers, risk logic or priority scores",
+      "Speculation about the cause"
+    ],
+    "recommended_next_action": "Collect payment evidence and reconcile with the payment provider; escalate duplicates."
+  },
+  {
+    "ticket_id": "T11",
+    "customer_problem_summary": "Please tell me exact reason for suspension: My account was suspended without a clear reason. I need to know exactly what triggered this and whether my balance is safe.",
+    "open_questions": [
+      "What is the current review status, and does the specialist team need anything?"
+    ],
+    "do_not_say": [
+      "Promises of outcomes, refunds or timelines not stated in the KB",
+      "Internal review triggers, risk logic or priority scores",
+      "Speculation about the cause",
+      "Whether the balance is 'safe' or when the restriction will lift"
+    ],
+    "recommended_next_action": "Specialist team to review the restriction and send an approved written response."
+  }
+]

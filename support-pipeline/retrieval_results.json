@@ -1,0 +1,182 @@
+[
+  {
+    "ticket_id": "T01",
+    "retrieved_articles": [
+      {
+        "article_id": "KB01",
+        "title": "Withdrawal review timelines",
+        "score": 0.6425
+      },
+      {
+        "article_id": "KB03",
+        "title": "Deposit pending or missing after bank debit",
+        "score": 0.5731
+      }
+    ]
+  },
+  {
+    "ticket_id": "T02",
+    "retrieved_articles": [
+      {
+        "article_id": "KB04",
+        "title": "Account access and session issues",
+        "score": 0.8198
+      },
+      {
+        "article_id": "KB03",
+        "title": "Deposit pending or missing after bank debit",
+        "score": 0.4017
+      }
+    ]
+  },
+  {
+    "ticket_id": "T03",
+    "retrieved_articles": [
+      {
+        "article_id": "KB02",
+        "title": "Additional verification checks",
+        "score": 0.7874
+      },
+      {
+        "article_id": "KB01",
+        "title": "Withdrawal review timelines",
+        "score": 0.6334
+      }
+    ]
+  },
+  {
+    "ticket_id": "T04",
+    "retrieved_articles": [
+      {
+        "article_id": "KB08",
+        "title": "Trading bot and strategy-performance caveats",
+        "score": 0.8447
+      },
+      {
+        "article_id": "KB03",
+        "title": "Deposit pending or missing after bank debit",
+        "score": 0.4017
+      }
+    ]
+  },
+  {
+    "ticket_id": "T05",
+    "retrieved_articles": [
+      {
+        "article_id": "KB09",
+        "title": "Data deletion and account closure requests",
+        "score": 0.8384
+      },
+      {
+        "article_id": "KB03",
+        "title": "Deposit pending or missing after bank debit",
+        "score": 0.4448
+      }
+    ]
+  },
+  {
+    "ticket_id": "T06",
+    "retrieved_articles": [
+      {
+        "article_id": "KB03",
+        "title": "Deposit pending or missing after bank debit",
+        "score": 0.7265
+      },
+      {
+        "article_id": "KB04",
+        "title": "Account access and session issues",
+        "score": 0.3781
+      }
+    ]
+  },
+  {
+    "ticket_id": "T07",
+    "retrieved_articles": [
+      {
+        "article_id": "KB07",
+        "title": "Account restriction and review communication",
+        "score": 0.6654
+      },
+      {
+        "article_id": "KB09",
+        "title": "Data deletion and account closure requests",
+        "score": 0.2203
+      }
+    ]
+  },
+  {
+    "ticket_id": "T08",
+    "retrieved_articles": [
+      {
+        "article_id": "KB05",
+        "title": "Statement and report exports",
+        "score": 0.7403
+      },
+      {
+        "article_id": "KB09",
+        "title": "Data deletion and account closure requests",
+        "score": 0.4322
+      }
+    ]
+  },
+  {
+    "ticket_id": "T09",
+    "retrieved_articles": [
+      {
+        "article_id": "KB03",
+        "title": "Deposit pending or missing after bank debit",
+        "score": 0.7641
+      },
+      {
+        "article_id": "KB07",
+        "title": "Account restriction and review communication",
+        "score": 0.2276
+      }
+    ]
+  },
+  {
+    "ticket_id": "T10",
+    "retrieved_articles": [
+      {
+        "article_id": "KB06",
+        "title": "Proof of address review guidance",
+        "score": 0.7865
+      },
+      {
+        "article_id": "KB02",
+        "title": "Additional verification checks",
+        "score": 0.6481
+      }
+    ]
+  },
+  {
+    "ticket_id": "T11",
+    "retrieved_articles": [
+      {
+        "article_id": "KB07",
+        "title": "Account restriction and review communication",
+        "score": 0.7429
+      },
+      {
+        "article_id": "KB09",
+        "title": "Data deletion and account closure requests",
+        "score": 0.3897
+      }
+    ]
+  },
+  {
+    "ticket_id": "T12",
+    "retrieved_articles": [
+      {
+        "article_id": "KB10",
+        "title": "API usage and rate limits",
+        "score": 0.7585
+      },
+      {
+        "article_id": "KB05",
+        "title": "Statement and report exports",
+        "score": 0.1584
+      }
+    ]
+  }
+]

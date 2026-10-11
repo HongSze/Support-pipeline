@@ -1,0 +1,134 @@
+[
+  {
+    "ticket_id": "T01",
+    "intent": "withdrawal_issue",
+    "urgency": "high",
+    "sentiment": "frustrated",
+    "mentions_funds_blocked": true,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": true,
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T02",
+    "intent": "login_access",
+    "urgency": "high",
+    "sentiment": "frustrated",
+    "mentions_funds_blocked": false,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": false,
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T03",
+    "intent": "verification_kyc",
+    "urgency": "medium",
+    "sentiment": "frustrated",
+    "mentions_funds_blocked": false,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": true,
+    "original_language": "ms",
+    "translated": true
+  },
+  {
+    "ticket_id": "T04",
+    "intent": "product_behavior",
+    "urgency": "medium",
+    "sentiment": "neutral",
+    "mentions_funds_blocked": false,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": false,
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T05",
+    "intent": "privacy_request",
+    "urgency": "medium",
+    "sentiment": "neutral",
+    "mentions_funds_blocked": false,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": true,
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T06",
+    "intent": "deposit_issue",
+    "urgency": "high",
+    "sentiment": "neutral",
+    "mentions_funds_blocked": true,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": true,
+    "original_language": "hi-en",
+    "translated": true
+  },
+  {
+    "ticket_id": "T07",
+    "intent": "account_restriction",
+    "urgency": "critical",
+    "sentiment": "angry",
+    "mentions_funds_blocked": true,
+    "mentions_regulator_or_legal_threat": true,
+    "requires_specialist_handling": true,
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T08",
+    "intent": "statement_export",
+    "urgency": "low",
+    "sentiment": "calm",
+    "mentions_funds_blocked": false,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": false,
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T09",
+    "intent": "deposit_issue",
+    "urgency": "high",
+    "sentiment": "frustrated",
+    "mentions_funds_blocked": true,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": true,
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T10",
+    "intent": "verification_kyc",
+    "urgency": "medium",
+    "sentiment": "frustrated",
+    "mentions_funds_blocked": false,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": true,
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T11",
+    "intent": "account_restriction",
+    "urgency": "high",
+    "sentiment": "frustrated",
+    "mentions_funds_blocked": true,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": true,
+    "original_language": "en",
+    "translated": false
+  },
+  {
+    "ticket_id": "T12",
+    "intent": "api_support",
+    "urgency": "medium",
+    "sentiment": "neutral",
+    "mentions_funds_blocked": false,
+    "mentions_regulator_or_legal_threat": false,
+    "requires_specialist_handling": false,
+    "original_language": "en",
+    "translated": false
+  }
+]

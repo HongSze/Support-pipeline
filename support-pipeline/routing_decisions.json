@@ -1,0 +1,102 @@
+[
+  {
+    "ticket_id": "T07",
+    "queues": [
+      "Risk",
+      "Compliance",
+      "Payments"
+    ],
+    "routing_rationale": "intent account_restriction, urgency critical; customer reports funds blocked or missing; mentions regulator or legal action; top KB KB07 (0.6654)",
+    "reply_safety_label": "needs_legal_or_compliance_review"
+  },
+  {
+    "ticket_id": "T01",
+    "queues": [
+      "Payments"
+    ],
+    "routing_rationale": "intent withdrawal_issue, urgency high; customer reports funds blocked or missing; top KB KB01 (0.6425)",
+    "reply_safety_label": "needs_specialist_review"
+  },
+  {
+    "ticket_id": "T06",
+    "queues": [
+      "Payments"
+    ],
+    "routing_rationale": "intent deposit_issue, urgency high; customer reports funds blocked or missing; top KB KB03 (0.7265)",
+    "reply_safety_label": "needs_specialist_review"
+  },
+  {
+    "ticket_id": "T09",
+    "queues": [
+      "Payments"
+    ],
+    "routing_rationale": "intent deposit_issue, urgency high; customer reports funds blocked or missing; top KB KB03 (0.7641)",
+    "reply_safety_label": "needs_specialist_review"
+  },
+  {
+    "ticket_id": "T11",
+    "queues": [
+      "Risk",
+      "Compliance",
+      "Payments"
+    ],
+    "routing_rationale": "intent account_restriction, urgency high; customer reports funds blocked or missing; top KB KB07 (0.7429)",
+    "reply_safety_label": "needs_legal_or_compliance_review"
+  },
+  {
+    "ticket_id": "T02",
+    "queues": [
+      "General Support"
+    ],
+    "routing_rationale": "intent login_access, urgency high; top KB KB04 (0.8198)",
+    "reply_safety_label": "safe_to_send_after_review"
+  },
+  {
+    "ticket_id": "T03",
+    "queues": [
+      "Compliance"
+    ],
+    "routing_rationale": "intent verification_kyc, urgency medium; top KB KB02 (0.7874)",
+    "reply_safety_label": "needs_legal_or_compliance_review"
+  },
+  {
+    "ticket_id": "T05",
+    "queues": [
+      "Privacy"
+    ],
+    "routing_rationale": "intent privacy_request, urgency medium; top KB KB09 (0.8384)",
+    "reply_safety_label": "needs_legal_or_compliance_review"
+  },
+  {
+    "ticket_id": "T10",
+    "queues": [
+      "Compliance"
+    ],
+    "routing_rationale": "intent verification_kyc, urgency medium; top KB KB06 (0.7865)",
+    "reply_safety_label": "needs_legal_or_compliance_review"
+  },
+  {
+    "ticket_id": "T04",
+    "queues": [
+      "Product"
+    ],
+    "routing_rationale": "intent product_behavior, urgency medium; top KB KB08 (0.8447)",
+    "reply_safety_label": "safe_to_send_after_review"
+  },
+  {
+    "ticket_id": "T12",
+    "queues": [
+      "Developer Support"
+    ],
+    "routing_rationale": "intent api_support, urgency medium; top KB KB10 (0.7585)",
+    "reply_safety_label": "safe_to_send_after_review"
+  },
+  {
+    "ticket_id": "T08",
+    "queues": [
+      "General Support"
+    ],
+    "routing_rationale": "intent statement_export, urgency low; top KB KB05 (0.7403)",
+    "reply_safety_label": "safe_to_send_after_review"
+  }
+]
